@@ -131,7 +131,8 @@ var md = `
 
 1. CANVAS小画板
 2. 搜索导航栏
-3. 仿网易云音乐
+3. 自实现一个MVVM框架
+4. 使用VUE做一个TODOlist
 
 # 联系方式
 
@@ -139,7 +140,7 @@ var md = `
 
 -Email  s20160185@xs.ustb.edu.cn
 
--WeChat 黄笑233
+-WeChat huangxiao233
 
 -cellphone 18611395195
 `
